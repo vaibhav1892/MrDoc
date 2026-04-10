@@ -9,6 +9,7 @@ import UserRouter from './routes/UserRoute.js'
 import dns from 'dns'
 // Change the DNS servers to Google's public DNS
 dns.setServers(["1.1.1.1", "8.8.8.8"]);
+
 const app=express()
 const port=process.env.PORT || 4000
 connectDB().catch(err => console.error('DB connection error:', err));
