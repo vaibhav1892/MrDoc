@@ -25,7 +25,7 @@ const FooterPage = () => {
          <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
          <ul className='flex flex-col gap-2 text-gray-600'>
             <li>+1-238-873-709-732</li>
-            <li>pranjalkrai2004@gmail.com</li>
+            <li>admin@gmail.com</li>
          </ul>
           </div>
         </div> 
