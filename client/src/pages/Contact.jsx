@@ -12,7 +12,7 @@ const Contact = () => {
         <div className='flex flex-col justify-center items-start gap-5'>
           <p className='font-semibold text-lg text-gray-600 '>OUR OFFICE</p>
           <p className='text-gray-500'>Bhavishya Nidhi Bhavan<br/> New Block No. 10<br/> Navnagar Hubli-580025</p>
-          <p className='text-gray-500'>Tel:(47) 564-3689 <br/>Email:Admin@gmail.com</p>
+          <p className='text-gray-500'>Tel:(47) 564-3689 <br/>Email:soul_elite@gmail.com</p>
           <p className='font-semibold text-lg text-gray-600'>Careers at PRESCRIPTO</p>
           <p className='text-gray-500'>Learn more about the team and the job openings..</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
