@@ -14,7 +14,7 @@ const addDoctor=async(req,res)=>{
        if(!name || !email || !password || !speciality  || !degree || !experience || !about || !fee || !address ){
         return res.json({success:false,message:"Missing detail"})
        }
-       // validating email format
+       // validating email formated
        if(!validator.isEmail(email)){
         return res.json({success:false,message:"Please enter the valid email"})
        }
