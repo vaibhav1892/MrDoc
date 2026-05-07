@@ -8,7 +8,9 @@ const FooterPage = () => {
         {/* ----Left Section */}
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt=''/>
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi totam ex perspiciatis blanditiis delectus atque ea consequatur iusto harum illo voluptas consectetur laborum accusamus, commodi eos voluptate temporibus porro cumque.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>MrDoc is a smart and user-friendly healthcare platform designed to simplify the process of booking doctor appointments. Our system allows patients to easily find trusted doctors, view their availability, and book appointments instantly</p>
+<p className='w-full md:w-2/3 text-gray-600 leading-6'>We aim to provide a seamless and hassle-free experience by connecting patients with healthcare professionals in just a few clicks. Whether it’s a general consultation or a specialist visit, MrDoc ensures quick access to quality healthcare services.
+Our mission is to make healthcare accessible, efficient, and reliable for everyone.</p>
         </div>
          {/* ----Centre Section */}
          <div>
